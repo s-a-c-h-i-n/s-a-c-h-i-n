@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sachin Kamath</h1>
-🏢 I'm working at Infosys as Specialist Programmer
-<br/>
-💻 Currently working for a Fortune 500 client as a Backend Developer.
 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachinrkamath18@gmail.com)
 ![](https://komarev.com/ghpvc/?username=s-a-c-h-i-n&color=blue&style=flat-square&label=Profile+visitors)
 
+ - 🏢 I'm working at Infosys as Specialist Programmer  
+ - 💻 Currently working for a Fortune 500 client as a Backend Developer  
 - 🔭 I’m currently working on [Youtube Clone](https://github.com/s-a-c-h-i-n/YoutubeClone), a full stack clone of Youtube <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="java" width="40" height="40" />
-
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-
-- 📫You can reach me [here](**sachinrkamath18@gmail.com**)
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uQzLwz6M0cQxiNNwpc6Sv6nlPhWNP6Wd/view?usp=sharing)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+- 📄 Know about my experiences - [My Resume](https://drive.google.com/file/d/1uQzLwz6M0cQxiNNwpc6Sv6nlPhWNP6Wd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
