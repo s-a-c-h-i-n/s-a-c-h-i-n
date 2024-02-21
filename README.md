@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachinrkamath18@gmail.com)
 ![](https://komarev.com/ghpvc/?username=s-a-c-h-i-n&color=blue&style=flat-square&label=Profile+visitors)
 
- - 🎓 Graduate Student at the Univesity of Ottawa, Canada
+ - 🎓 Graduate Student at the Univesity of Ottawa, Canada 🍁
  - 🏢 Worked at Infosys as Specialist Programmer
  - 💻 Experience in Full Stack focused on Backend Development
 
