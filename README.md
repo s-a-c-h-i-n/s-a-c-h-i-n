@@ -3,9 +3,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachinrkamath18@gmail.com)
 ![](https://komarev.com/ghpvc/?username=s-a-c-h-i-n&color=blue&style=flat-square&label=Profile+visitors)
 
- - 🏢 I'm working at Infosys as Specialist Programmer  
- - 💻 Currently working for a Fortune 500 client as a Backend Developer  
-- 🔭 I’m currently working on [Youtube Clone](https://github.com/s-a-c-h-i-n/YoutubeClone), a full stack clone of Youtube <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="java" width="40" height="40" />
+ - 🎓 Graduate Student at the Univesity of Ottawa, Canada
+ - 🏢 Worked at Infosys as Specialist Programmer
+ - 💻 Experience in Full Stack focused on Backend Development
+
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
